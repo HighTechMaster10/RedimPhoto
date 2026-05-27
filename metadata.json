@@ -1,0 +1,6 @@
+{
+  "name": "Studio d'IA Google",
+  "description": "Un outil professionnel de redimensionnement d'images sans perte de qualité avec contrôle tactile et à la souris, formats prédéfinis et exportation multi-format rapide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
